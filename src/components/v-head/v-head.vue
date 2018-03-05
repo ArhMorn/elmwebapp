@@ -30,7 +30,7 @@
                   </div>
                   <div class="center">
                       <ul class="mean">
-                          <li v-for="item in seller.supports" :key="item"><span :class="'bga-'+item.type+' t4'"></span>{{item.description}}</li>
+                          <li v-for="(item,index) in seller.supports" :key="index"><span :class="'bga-'+item.type+' t4'"></span>{{item.description}}</li>
                       </ul>
                       
                   </div>
