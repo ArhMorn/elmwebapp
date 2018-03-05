@@ -1,0 +1,76 @@
+@import url(./font.css);
+.bg-0{
+    background: url(../../.././resource/img/decrease_1@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bg-1{
+    background: url(../../.././resource/img/discount_1@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bg-2{
+    background: url(../../.././resource/img/special_1@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bg-3{
+    background: url(../../.././resource/img/invoice_1@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bg-4{
+    background: url(../../.././resource/img/guarantee_1@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bgi-0{
+    background: url(../../.././resource/img/decrease_3@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bgi-1{
+    background: url(../../.././resource/img/discount_3@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bgi-2{
+    background: url(../../.././resource/img/special_3@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bgi-3{
+    background: url(../../.././resource/img/invoice_3@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bgi-4{
+    background: url(../../.././resource/img/guarantee_3@2x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bga-0{
+    background: url(../../.././resource/img/decrease_2@3x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bga-1{
+    background: url(../../.././resource/img/discount_2@3x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bga-2{
+    background: url(../../.././resource/img/special_2@3x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bga-3{
+    background: url(../../.././resource/img/invoice_2@3x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
+ .bga-4{
+    background: url(../../.././resource/img/guarantee_2@3x.png);
+     background-size: contain;
+     background-repeat: no-repeat;
+ }
